@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+.env.local
+
+# API Keys
+config.py
+secrets.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data
+*.csv
+*.json
+data/
+
+# Models
+*.pt
+*.pth
+*.onnx
+models/
+
+# IDE
+.vscode/
+.idea/
